@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: py-pubsub
+Version: 0.0.1
+Summary: pub example node
+Maintainer: weigu
+Maintainer-email: weigu@weigu.lu
+License: Apache-2.0
+License-File: LICENSE
